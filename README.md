@@ -9,6 +9,7 @@ Microsoft has announced that they would like to get into the movie industry. The
 EXPLORATION OF DATA
 
 The data that was used for this step can be found in the link below:
+
 http://localhost:8888/edit/tn.movie_budgets.csv
 
 http://localhost:8888/edit/tn.title.basics.csv
