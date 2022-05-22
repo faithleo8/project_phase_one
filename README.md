@@ -1,19 +1,23 @@
-# MICRCROSOFT MOVIE WORLD PROJECT
+# MICROSOFT MOVIE WORLD PROJECT
 
 Student Name : Faithtesy Leo
 
 PROJECT OVERVIEW
+
 Microsoft has announced that they would like to get into the movie industry. They will be creating a studio, however they have no knowledge of the movie industry. Our goal is to collect, clean, and analyze movie data from a variety of sources so that we can provide recommendations to Microsoft that will allow them to be successful in the movie industry.
 
 EXPLORATION OF DATA
+
 The data that was used for this step can be found in the link below:
 http://localhost:8888/edit/tn.movie_budgets.csv
+
 http://localhost:8888/edit/tn.title.basics.csv
 
 During the analysis, i looked into the question below which would help Microsoft be successful in the movie industry.
+
 ANALYSIS QUESTION:
-Which movies generate the highest profits and how much money should be spent for the budget to ensure success.
-What genres of movies are majorly produced and whats their relation to the profit
+1.Which movies generate the highest profits and how much money should be spent for the budget to ensure success.
+2.What genres of movies are majorly produced and whats their relation to the profit
 
 QUESTION ONE
 To answer this question and provide a recommendation we'll make use of a budgets dataframe called movie_budgets.csv. Our analysis will require that we use the data to calculate profit and profit margin whhich we will further access to determine the most profitable movies.
@@ -35,6 +39,7 @@ Further to this, i filtered data that had more than 75% profit margin and a budg
 Recommendation: I recommend that microsoft should put a budget of 50,000,000 which corresponds to a 81.93 percent profit margin.
 
 QUESTION TWO
+
 What genres of movies are majorly produced and whats their relation to the profit
 in order to answer tthis question , i looked into the median net profit and profit margin for every movie genre after grouping by genre.
 i ddnt use the mean due to the possibility of outliers within the data.
