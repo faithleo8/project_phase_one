@@ -38,12 +38,14 @@ findings:
 Further to this, i filtered data that had more than 75% profit margin and a budget of more than 21000000 in order to investigate the trends in regards to the budget and profit margin.
        
 Recommendation: I recommend that microsoft should put a budget of 50,000,000 which corresponds to a 81.93 percent profit margin.
+                Microsoft to emulate the budgeting criteria of the 20 most successful movies in the industry
+
 
 QUESTION TWO
 
 What genres of movies are majorly produced and whats their relation to the profit
 in order to answer tthis question , i looked into the median net profit and profit margin for every movie genre after grouping by genre.
 i ddnt use the mean due to the possibility of outliers within the data.
-lastly, i look at the percent of net profit by genre. THis steps will help microsoft to decide on how to budget in regards to the different genres as it will potray the profitability of evry genre.
+lastly, i look at the percent of net profit by genre. These steps will help microsoft to decide on how to budget in regards to the different genres as it will potray the profitability of evry genre.
 
 Question 2 recommendation: I recommend that Microsoft should focus their efforts on the top 6 most profitable movie genres: Adventure, Action, Comedy, Drama, Sci-Fi and Animation.  
